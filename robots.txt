@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mostbet-az-casino.netlify.app/sitemap.xml
